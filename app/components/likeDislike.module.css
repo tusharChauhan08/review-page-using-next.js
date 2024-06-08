@@ -1,0 +1,24 @@
+.likeDislikeSection {
+    display: flex;
+    justify-content: flex-start;
+    gap: 3rem;
+    font-size: 1.4rem;
+    align-items: center;
+    font-weight: bold;
+}
+
+.likeDislikeButton {
+    color: #adadad;
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    cursor: pointer;
+}
+
+.disLike {
+    color: #950606;
+}
+
+.like {
+    color: #049404;
+}
